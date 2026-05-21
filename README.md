@@ -1,4 +1,5 @@
 # 🧠 Hybrid CNN-LSTM Deep Learning Architecture for Sequential Intelligence
+<img width="1536" height="1024" alt="ChatGPT Image May 21, 2026, 01_10_51 AM" src="https://github.com/user-attachments/assets/872002c5-b5f9-41d4-b9b2-0f7ff6a8674f" />
 
 A deep learning framework combining Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks for high-dimensional temporal signal analysis and sequential pattern learning using TensorFlow/Keras.
 
